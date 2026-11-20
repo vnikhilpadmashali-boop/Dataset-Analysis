@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+analysis_history.db
+.streamlit/
+.DS_Store
